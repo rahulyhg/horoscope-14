@@ -1,2 +1,2 @@
 # horoscope
-Python program to fetch daily, weekly, montly and yearly horoscope from astrology.com
+A program written in Python to fetch daily, weekly, montly and yearly horoscope from astrology.com
